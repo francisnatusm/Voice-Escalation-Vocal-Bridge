@@ -45,7 +45,7 @@ Built on [Vocal Bridge](https://vocalbridgeai.com) for real-time voice calls and
 
 **Watch the recording in this repo:**
 
-➡️ [`Screen Recording 2026-07-01 074558.mp4`](./Screen%20Recording%202026-07-01%20074558.mp4)
+➡️ [`demo.mp4`](./demo.mp4)
 
 **What the video shows**
 
