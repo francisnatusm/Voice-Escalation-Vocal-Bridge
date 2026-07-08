@@ -96,7 +96,7 @@ Then open [vocalbridgeai.com/app/dashboard](https://vocalbridgeai.com/app/dashbo
 
 ## Author
 
-**Francis Natus Mugisha** (South Korea)
+<a href="https://www.francisnatusm.com/">Francis Natus M.</a>
 
 ---
 
