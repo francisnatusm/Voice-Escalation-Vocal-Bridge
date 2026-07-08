@@ -1,0 +1,22 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Optional: uncomment if the video is too large for git push
+# *.mp4
+# *.mov
+# *.webm
