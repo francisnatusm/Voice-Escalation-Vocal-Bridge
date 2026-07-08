@@ -6,7 +6,7 @@ I taught my coding assistant to call me for high-stakes decisions — and only t
 
 ---
 
-## Result: Ranked #3
+## Ranking
 
 <p align="center">
   <img src="vocal-bridge-rank.png" alt="Ranked #3 — Top 8% on the live leaderboard — 38 builders" width="720" />
