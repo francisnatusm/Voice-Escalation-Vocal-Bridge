@@ -43,8 +43,6 @@ Built on [Vocal Bridge](https://vocalbridgeai.com) for real-time voice calls and
 
 ## Demo video
 
-![Demo flow](vocal-bridge-rank.png)
-
 **Watch the recording in this repo:**
 
 ➡️ [`Screen Recording 2026-07-01 074558.mp4`](./Screen%20Recording%202026-07-01%20074558.mp4)
